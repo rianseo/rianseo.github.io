@@ -1,0 +1,35 @@
+= 1.0.0 - 13/11/2019 =
+*Rilis
+
+= 1.2.0 - 19/11/2019 =
+*Perbaikan Form order WhatsApp Opsi Provinsi + Kode Pos
+*Penambahan Rating Product
+*Perbaikan Comment Review yang Eror
+*Penambahan Fiktur Notifikasi Order
+
+= 1.3.5 - 01/02/2020 =
+*Perbaikan Breadcrumbs yang eror di Search console
+*Perbaikan Schema marcup yang eror
+*Perubahan widget tampilan label Image
+*Perubahan tampilan widget footer menggunakan widget Email
+*Penghapusan icon Ionicon dan diganti dengan icon SVG
+*Perbaikan pengaturan Nomor WA, Nama Admin dan Status Produk menjadi lebih mudah (Tata Letak)
+*Perbaikan tampilan mode Postingan menjadi lebih responsive
+*Dan perbaikan sedikit dibagian CSS lainnya
+
+= 1.3.6 - 03/02/2020 =
+
+*Perbaikan form WhatsApp yang eror
+*Perbaikan schema markup rating bintang yang eror
+*Perbaikan pengaturan warna template otomatis
+*Perbaikan tampilan responsive yang terbaca tidak Mobile Frendly
+*Perbaikan icon menu versi Mobile menjadi icon " SVG "
+*Perbaikan eror dibagian form Input Jumlah, Ukuran & Warna yang ketumpuk
+*Perbaikan tampilan kolom search / pencarian
+*Perubahan tampilan widget label  kebagian atas postingan
+*Pergantian font / Google font " Puppin "
+*Perubahan tampilan form chat WhatsApp dan Checkout WhatApp
+*Perubahan tampilan layout tata letak menjadi lebih newbie frendly
+*Penambahan fiktur pilihan form chat WhatsApp yang bisa di atur
+*Penambahan fiktur API / Token Instagram (Menampilkan gallery foto dari Instagram) ke Toko Anda
+*Perubahan meta tag template menjadi lebih dinamis
