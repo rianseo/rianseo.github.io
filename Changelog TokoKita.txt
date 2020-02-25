@@ -33,3 +33,8 @@
 *Penambahan fiktur pilihan form chat WhatsApp yang bisa di atur
 *Penambahan fiktur API / Token Instagram (Menampilkan gallery foto dari Instagram) ke Toko Anda
 *Perubahan meta tag template menjadi lebih dinamis
+
+= 1.3.7 - 26/02/2020 =
+
+*Perbaikan form text WhatsApp yang menggunakan bahasa Inggris menjadi bahasa Indonesia
+*Penambahan fiktur ukuran template dapat diatur lewat menu desainer
