@@ -38,3 +38,20 @@
 
 *Perbaikan form text WhatsApp yang menggunakan bahasa Inggris menjadi bahasa Indonesia
 *Penambahan fiktur ukuran template dapat diatur lewat menu desainer
+
+= 2.0.0 - 21/08/2020 =
+
+*Perbaikan form text WhatsApp
+*Penambahan fiktur Gambar di menu desiainer
+*Penambahan contact form blogger
+*Penambahan widget about admin blogger
+*Perbaikan tampilan jumlah postingan produk di halaman awal
+*Penambahan fiktur bisa menulis artikel kusus dilabel ' Blog '
+*Penghapusan API / Token Instagram yang error
+*Perbaikan tampilan halaman error 404 & pencarian laman
+*Perbaikan perfomance kecepatan nilai template
+*Penambahan tombol mode drak | tampilan tema gelap
+*Penambahan fiktur widget PopulartPost produk
+*Memaksimalkan hasil nilai lighthouse template
+*JavaSript jQuery v3.5.1 (New)
+*Perubahan model komentar ke versi blogger
