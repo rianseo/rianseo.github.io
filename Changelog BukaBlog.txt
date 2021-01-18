@@ -1,73 +1,83 @@
-v.1.0.0 – 29/12/2019
+v.1.0.0 â€“ 29/12/2019
 
-– Rilis
-– Perbaikan CSS kurang Responsive
-– Perbaikan JavaScript Related produk
+â€“ Rilis
+â€“ Perbaikan CSS kurang Responsive
+â€“ Perbaikan JavaScript Related produk
 
-v.1.2.0 – 02/02/2020
+v.1.2.0 â€“ 02/02/2020
 
-– Penghapusan Siderbar
-– Perbaikan kode JavaScript Lazyload
-– Populart Post di Halaman awal
-– Perbaikan tombol beli sekarang ke tombol WhatsApp form
-– Perbaikan tampilan tombol pembelian
+â€“ Penghapusan Siderbar
+â€“ Perbaikan kode JavaScript Lazyload
+â€“ Populart Post di Halaman awal
+â€“ Perbaikan tombol beli sekarang ke tombol WhatsApp form
+â€“ Perbaikan tampilan tombol pembelian
 
-v.1.2.2 – 15/02/2020
+v.1.2.2 â€“ 15/02/2020
 
-– Perbaikan breadcums
-– Perbaikan CSS kurang responsive dilayar 1023px
-– Penambahan tampilan rating produk
+â€“ Perbaikan breadcums
+â€“ Perbaikan CSS kurang responsive dilayar 1023px
+â€“ Penambahan tampilan rating produk
 
-v.1.2.3 – 25/03/2020
+v.1.2.3 â€“ 25/03/2020
 
-– Perbaikan form Pencarian yang tidak Berfungsi
-– Perbaikan tampilan form Order WhatsApp
-– Penambahan Pilihan Pengiriman form WhatsApp
-– Penambahan Pilihan Pembayaran Bank form WhatsApp
-– Mendukung penulisan kusus Artikel Blog
+â€“ Perbaikan form Pencarian yang tidak Berfungsi
+â€“ Perbaikan tampilan form Order WhatsApp
+â€“ Penambahan Pilihan Pengiriman form WhatsApp
+â€“ Penambahan Pilihan Pembayaran Bank form WhatsApp
+â€“ Mendukung penulisan kusus Artikel Blog
 
-v.1.2.4 – 22/04/2020
+v.1.2.4 â€“ 22/04/2020
 
-– Warna Address Bar versi Mobile bisa dirubah otomatis di Menu Desainer
-– Perbaikan Icon Keranjang yang tidak pas di UC Browser versi Mobile
-– Memperbaiki keseluruhan tampilan CSS template yang berantakan di browser Mozila
-– Perbaikan tampilan Dashbor Tata Letak / Layout Template
-– Perubahan tampilan halaman kusus Artikel
-– Widget bagian Sidebar Muncul dihalaman kusus Artikel
-– Penambahan widget Produk bisa ditampilkan sesuai Label / kategori di Halaman Awal
-– Penambahan JavaScript Navigasi efek Scroll
+â€“ Warna Address Bar versi Mobile bisa dirubah otomatis di Menu Desainer
+â€“ Perbaikan Icon Keranjang yang tidak pas di UC Browser versi Mobile
+â€“ Memperbaiki keseluruhan tampilan CSS template yang berantakan di browser Mozila
+â€“ Perbaikan tampilan Dashbor Tata Letak / Layout Template
+â€“ Perubahan tampilan halaman kusus Artikel
+â€“ Widget bagian Sidebar Muncul dihalaman kusus Artikel
+â€“ Penambahan widget Produk bisa ditampilkan sesuai Label / kategori di Halaman Awal
+â€“ Penambahan JavaScript Navigasi efek Scroll
 
-v.1.2.5 – 01/06/2020
+v.1.2.5 â€“ 01/06/2020
 
-– Perbaikan CSS di Browser Mozila versi Mobile
-– Perbaikan form pembelian WhatsApp
-– Perubahan tampilan slider Barner
-– Perubahan tampilan postingan Produk versi Desktop & Mobile
-– Perubahan tampilan menu versi Mobile menggunakan Icon
-– Penambahan costum text Template
-– Penambahan Widget Barner versi desktop & Mobile
-– Penambahan Widget Flash Deal
-– Penambahan Ongkos kirim sesuai [Wilayah]
-– Penambahan form jasa kurir [Costum]
-– Penambahan tombol beli WhatsApp di halaman chekout
+â€“ Perbaikan CSS di Browser Mozila versi Mobile
+â€“ Perbaikan form pembelian WhatsApp
+â€“ Perubahan tampilan slider Barner
+â€“ Perubahan tampilan postingan Produk versi Desktop & Mobile
+â€“ Perubahan tampilan menu versi Mobile menggunakan Icon
+â€“ Penambahan costum text Template
+â€“ Penambahan Widget Barner versi desktop & Mobile
+â€“ Penambahan Widget Flash Deal
+â€“ Penambahan Ongkos kirim sesuai [Wilayah]
+â€“ Penambahan form jasa kurir [Costum]
+â€“ Penambahan tombol beli WhatsApp di halaman chekout
 
-v.1.2.6 – 10/11/2020
+v.1.2.6 â€“ 10/11/2020
 
-– Perubahan total seluruh tampilan menjadi lebih simple
-– Perubahan warna tema versi bawaan merah menjadi warna putih
-– Perbaikan post navigasi scroll yang error
-– Perubahan tampilan dibagian halaman chekout / pembayaran
-– Penambahan pilihan pembayaran dihalaman chekout WhatsApp, Bank, OVO & DANA
-– Penambahan fiktur pesanan produk masuk via Email
-– Penambahan profil penjual muncul dihalaman produk
-– Memaksimalkan tampilan produk dibagian mobile / smartphone
-– Pergantian kode jQuery versi terbaru v1.3.5
-– Pergantian kode JavaScript Lazyload versi terbaru
-– Penambahan latar gambar / background dibagian widget profil blogger
-– Penghapusan JavaScript waktu diskon produk
-– Pergantian kode schema markup bagian Breadcumbs
-– Penambahan widget Featured Post blogger
-– Penambahan widget Rekomendasi produk dibagian halaman
-– Perubahan tampilan halaman produk dibagian link Label
-– Penambahan widget Kontak blogger 
-– Penghapusan JavaScript Related post dibagian halaman produk
+â€“ Perubahan total seluruh tampilan menjadi lebih simple
+â€“ Perubahan warna tema versi bawaan merah menjadi warna putih
+â€“ Perbaikan post navigasi scroll yang error
+â€“ Perubahan tampilan dibagian halaman chekout / pembayaran
+â€“ Penambahan pilihan pembayaran dihalaman chekout WhatsApp, Bank, OVO & DANA
+â€“ Penambahan fiktur pesanan produk masuk via Email
+â€“ Penambahan profil penjual muncul dihalaman produk
+â€“ Memaksimalkan tampilan produk dibagian mobile / smartphone
+â€“ Pergantian kode jQuery versi terbaru v1.3.5
+â€“ Pergantian kode JavaScript Lazyload versi terbaru
+â€“ Penambahan latar gambar / background dibagian widget profil blogger
+â€“ Penghapusan JavaScript waktu diskon produk
+â€“ Pergantian kode schema markup bagian Breadcumbs
+â€“ Penambahan widget Featured Post blogger
+â€“ Penambahan widget Rekomendasi produk dibagian halaman
+â€“ Perubahan tampilan halaman produk dibagian link Label
+â€“ Penambahan widget Kontak blogger 
+â€“ Penghapusan JavaScript Related post dibagian halaman produk
+
+v.1.2.7 â€“ 18/01/2021
+
+â€“ Perbaikan tampilan CSS Template kurang responsive ukuran layar 800px & 1000px
+â€“ Penambahan widget icon gambar label produk
+â€“ Perubahan warna Template versi mobile menggunakan warna merah
+â€“ Penambahan jumlah foto produk menggunakan efek bergulir
+â€“ Pengaturan ongkos kirim lebih mudah ditata letak
+â€“ Perubahan tampilan link menu bagian layar versi desktop
+â€“ Dan beberapa perbaikan tampilan CSS bagian lainnya
