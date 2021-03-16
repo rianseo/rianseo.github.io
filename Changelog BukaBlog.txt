@@ -81,3 +81,13 @@ v.1.2.7 – 18/01/2021
 – Pengaturan ongkos kirim lebih mudah ditata letak
 – Perubahan tampilan link menu bagian layar versi desktop
 – Dan beberapa perbaikan tampilan CSS bagian lainnya
+
+v.1.2.8 – 16/03/2021
+
+– Perubahan tampilan gambar slider produk menjadi model gallery
+– Menambahkan harga coret produk
+– Penambahan widget gambar label hanya muncul ditampilan Smartphone
+– Penambahan widget link label dibagian atas footer template
+– Penambahan slot widget gambar dibagian bawah widget Penjelasan
+– Menambahkan jumlah widget gambar barner slider menjadi 8 jumlah
+– Dan beberapa perbaikan tampilan CSS dibagian menu navigasi
