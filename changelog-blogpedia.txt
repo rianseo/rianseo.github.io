@@ -1,0 +1,80 @@
+= Data / 20/06/2019 =
+- Rilis
+- Perbaikan tampilan halaman depan
+
+= Data / 28/06/2019 =
+- Penambahan Gambar slider image
+- Perbaikan tampilan produk
+- Penambahan fiktur desainer tema
+
+= Data / 01/07/2019 =
+- Perbaikan komentar yang eror
+- Penambahan fiktur rating produk
+- Perbaikan tampilan produk
+
+= Data / 08/07/2019 =
+- Penambahan sidebar wigdet
+- Perubahan wigdet versi terbaru blogger v3
+- Penambahan tab di halaman produk
+- Perbaikan tampilan tata letak / Layout
+
+- Data / 16/07/2019
+- Penambahan sidebar wigdet
+- Penambahan menu profil navigasi
+- Perubahan menu navigasi dan kotak pencarian
+
+= Data / 26/07/2019 =
+- Perbaikan tampilan menu tata letak
+- Penambahan widget populart post
+- Perbaikan tampilan artikel di homepage
+- Penambahan slot iklan mode artikel / Iklan hanya tayang di halaman artikel saja
+
+= Data / 05/08/2019 =
+- Perbaikan tampilan related produk
+- Perbaikan icon share WhatsApp
+- Tombol beli berubah menjadi melayang / fixed
+- Penambahan profil penjual di bagian tombol beli
+
+- Data / 18/09/2019
+- Penambahan Widget Whatsapp Form Order
+- Perbaikan menu dropdown menggunakan kategori / label
+- Perbaikan tampilan tombol beli menjadi lebih responsive versi Mobile
+- Pergantian kolom komentar menggunakan Facebook comments
+
+= Data / 14/10/2019 =
+- Perubahan / Perbaikan pengaturan template jadi lebih mudah
+- Slider image bisa diubah ditata letak
+- Icon Logo label bisa diatur lewat tata letak
+- Penambahan profil penjual muncul versi Mobile
+
+= Data / 15/03/2020 =
+- Perubahan / Perbaikan tampilan Halaman chekout
+- Penambahan fiktur ongkos kirim di Halaman chekout
+- Link menu navigasi tampil di versi Mobile
+- Penambahan Populart Post di Widget Live search
+- Penambahan opsi Warna dan Ukuran di Form WhatsApp
+
+- Data / 24/05/2021
+- Update perubahan secara keseluruhan template
+- Perubahan tampilan template menjadi 2 versi model Desktop & Mobile yang berbeda
+- Pergantian semua kode template menjadi versi terbaru dari blogger.com
+- Perubahan pengaturan template secara keseluruhan
+- Pengaturan template di permudah semuanya ada di tata letak
+- Membuat postingan produk tidak perlu menggunakan kode HTML khusus
+- Pesanan produk dari pembeli masuk via Email dan WhatsApp
+- Perbaikan warna Template yang tidak mendukung fiktur desainer tema
+- Penghapusan schema markup type model produk yang terbaca error di Websmaster tool
+- Perubahan tampilan slider gambar barner halaman depan menjadi lebih Responsive
+- Perubahan tampilan halaman produk menjadi lebih mudah dipahami oleh calon pembeli
+- Pergantian model tampilan halaman pembayaran
+- Penghapusan model komentar dari WidgetPack
+- Penambahan tampilan postingan produk menggunakan lokasi / barang asal
+- Penghapusan postingan kusus Artikel yang masih tahap pengembangan
+- Perubahan tampilan Tata Letak / Layout template
+- Perubahan tampilan gambar postingan produk dengan model efek slider
+- Update kode jQuery v3.6.0
+- Memaksimalkan tampilan template versi seluler menjadi lebih Responsive dan mirip Tokopedia
+- Perubahan tampilan beberapa Widget dari Blogger > Widget Kontak / Widget Profil / Widget Gambar / Widget LinkList
+- Penambahan fiktur Chat dihalaman Postingan produk
+- Tombol efek scroll untuk Postingan Berikutnya
+- Dan beberapa perbaikan tampilan CSS lainnya
