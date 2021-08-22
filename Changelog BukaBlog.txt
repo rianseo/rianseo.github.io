@@ -91,3 +91,11 @@ v.1.2.8 – 16/03/2021
 – Penambahan slot widget gambar dibagian bawah widget Penjelasan
 – Menambahkan jumlah widget gambar barner slider menjadi 8 jumlah
 – Dan beberapa perbaikan tampilan CSS dibagian menu navigasi
+
+v.1.2.9 - 22/08/2021
+
+- Perubahan tampilan postingan halaman depan produk menjadi 2 kolom versi Smartphone
+- Memunculkan widget Live Chat di versi Smartphone
+- Menambahkan fiktur Lokasi pada postingan produk
+- Menyesuaikan bagian widget versi seluler dan Desktop
+- Beberapa perbaikan bagian CSS lainnya
