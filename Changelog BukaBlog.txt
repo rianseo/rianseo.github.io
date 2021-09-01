@@ -61,7 +61,7 @@ v.1.2.6 – 10/11/2020
 – Penambahan fiktur pesanan produk masuk via Email
 – Penambahan profil penjual muncul dihalaman produk
 – Memaksimalkan tampilan produk dibagian mobile / smartphone
-– Pergantian kode jQuery versi terbaru v1.3.5
+– Pergantian kode jQuery versi terbaru v3.5.0
 – Pergantian kode JavaScript Lazyload versi terbaru
 – Penambahan latar gambar / background dibagian widget profil blogger
 – Penghapusan JavaScript waktu diskon produk
@@ -99,3 +99,15 @@ v.1.2.9 - 22/08/2021
 - Menambahkan fiktur Lokasi pada postingan produk
 - Menyesuaikan bagian widget versi seluler dan Desktop
 - Beberapa perbaikan bagian CSS lainnya
+
+v.2.0.0 - 01/09/2021
+
+- Menambahkan schema markup type Produk untuk postingan produk
+- Perbaikan tampilan logo versi smartphone
+- Perbaikan gambar produk saat diklik menggunakan efek Lightbox
+- Perubahan icon tombol pembelian keranjang belanja versi smartphone
+- Perbaikan tampilan CSS template di ukuran layar 1080px yang kurang responsive
+- Memperbaiki tampilan halaman single produk versi smartphone
+- Menambahkan icon tutup di slider menu versi ponsel
+- Tombol follow / ikuti blog ada d slider menu smartphone
+- Dan beberapa perbaikan bagian CSS bagian slider menu ponsel
