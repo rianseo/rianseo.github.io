@@ -1,0 +1,100 @@
+v.1.0.0 - (11/04/2020)
+- Release
+
+v.1.2.0 - (19/07/2020)
+- Fixed comments that can't reply
+- Changes to the latest version of blogger comment design
+- Fixed Desktop version of WhatsApp share button failure
+
+v.1.3.0 - (24/07/2020)
+- Change the blogger layout code to the latest version 2
+- Fixed Breadcrumbs the Error in the search console
+- Add theme designer fixtures (automatic template color)
+- Improvements to Porfomance template scores via the Lighthouse
+
+v.2.0.0 - (21/08/2020)
+- Big update template
+- WhatsApp form text fix
+- Added Image feature in designer menu
+- Add blogger contact form
+- Added a widget about blogger admin
+- Improved display of the number of product posts on the home page
+- Additional feature can write a special article labeled 'Blog'
+- Instagram API / Token deletion error
+- Fixed 404 error page display & page search
+- Improved template value speed performance
+- Added drak mode button | dark theme look
+- Added product PopulartPost widget feature
+- Maximize the results of the lighthouse template value
+- JavaSript jQuery v3.5.1 (New)
+- Change the comment model to the blogger version
+
+v.2.1.0 - (01/10/2020)
+- Fixed all SVG Icons as per data from live bloggger
+- Additional search widgets are laid out
+- Fixed the share button URL link error
+- Repair of meta index template data becomes automatic
+- Layout display improvements
+- Maximizing duplicate readable H1 tags on posting pages
+
+v.2.2.0 - (09/11/2020)
+- Fixed the display of the mobile version of the purchase button section
+- Maximizing the rest of the CSS display
+
+v.2.3.0 - (12/12/2020)
+- Additional product prices can be adjusted according to size
+- Improved the appearance of the Blogger contact widget & WhatsApp contacts
+- Change in single post product image display
+- Fixed JavaScript not working for WhatsApp's settings widget section
+- And some minor improvements in the CSS section
+
+v.2.4.0 - (16/12/2020)
+- Fixed the display of part of the product post image that was not maximal
+- Added Wigdet API rating
+- Added Order Notification Widget
+- Remove Featured Image & Contact Widget from blogger.com default
+- Changed the default blogger.com comment model using WidgetPack
+- Fixed CSS uneven dark mode
+
+v.2.5.0 - (31/12/2020)
+- Fixed ID Rating & ID Comments widget
+- Change the theme color to green
+- Added a Market pleace link
+- Changed the appearance of Breadcrumbs section
+- Changed the Roboto font to Poppins
+
+v.2.6.0 - (24/01/2021)
+- Change in the appearance of the search field section
+- Change of iOS type search icon
+- Changes to the display of the drak mode button
+
+v.2.7.0 - (03/02/2021)
+- Improvements to the next post button that does not appear on the product label page
+- Changes in the display text description automatically above the product
+- Added a "Send Message" button in product posts
+- The addition of the Next post & Previous post button in your writing section You may like these posts
+- The post display type label "Blog" appears on the front page of the template
+- Added Instagram API for Instagram account images
+- Added widget at the top of the template footer
+- And some change model icons
+
+v.2.8.0 - (16/06/2022)
+- Fixed error search icon button
+- Fixed product image error
+
+v.2.9.0 - (23/02/2023)
+- Improved appearance of the template neater
+- Change of search field design style
+- Change the template color to black
+- Improved the appearance of the purchase button for the part of the smartphone screen that is less responsive
+- Fixed floating header effect
+- Change of template font type
+- Changes in the display style of the Popular post widget
+- Change of payment widget settings
+
+Version 3.0.0 - (10/06/2023)
+- Removal of the review comment system
+- CSS template fixes
+- Change the appearance of the footer section
+- Added a floating navigation display on the display section of the phone
+- Widget social media footer
